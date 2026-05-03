@@ -1,47 +1,49 @@
-👋 Hi, I’m Alessandro Simonitto
-Content creator, automation engineer, and smart-home enthusiast based in Italy.
+# Alessandro Simonitto
 
-Mi occupo di domotica, Home Assistant, IoT, automazioni, elettrica smart e maker projects, con un forte focus sull’integrazione tra diversi ecosistemi (Zigbee, Matter, MQTT, LoRa/Meshtastic, energia, video-sorveglianza e molto altro).
-Sul mio canale YouTube condivido tutorial, guide pratiche, recensioni tecniche e soluzioni reali che utilizzo ogni giorno nella mia installazione domestica e in vari progetti professionali.
+Deploy Manager at Canavisia and content creator based in Italy. Five-plus years of experience delivering large-scale Home Assistant installations (500–1000 devices, whole-building automation including heating and energy monitoring), installer training, and technical support.
 
-🔧 Cosa faccio
+I design and deploy integrated systems built around Home Assistant, MQTT, Zigbee2MQTT, ESPHome, and Meshtastic, with particular attention to interoperability between heterogeneous ecosystems (Zigbee, Matter, MQTT, LoRa/Meshtastic, energy management, video surveillance).
 
-Sviluppo e documento progetti basati su Home Assistant, MQTT, Zigbee2MQTT, ESPHome e Meshtastic.
+On my YouTube channels I publish technical tutorials, hands-on reviews, and reproducible solutions drawn from my own installations and professional projects.
 
-Testo dispositivi smart di aziende come SONOFF, Shelly, Aqara, Reolink, SwitchBot, ecc.
+## What I do
 
-Realizzo guide passo-passo, blueprint, automazioni e configurazioni avanzate per migliorare la smart home.
+- Develop and document projects on Home Assistant, MQTT, Zigbee2MQTT, ESPHome, and Meshtastic.
+- Test smart devices from manufacturers including SONOFF, Shelly, Aqara, Reolink, and SwitchBot.
+- Produce step-by-step guides, blueprints, automations, and advanced configurations.
+- Share experiments covering network infrastructure, custom sensors, energy monitoring, and cloud-free integrations.
+- Design DCS World missions and Lua scripting for combat flight simulation, drawing on twenty years of flight simulator experience.
 
-Porto sul canale esperimenti reali, infrastrutture di rete, sensori custom, energy monitoring e integrazioni cloud-free.
+## Technical stack
 
-🎥 Il mio canale YouTube
+Python, YAML, HTML/CSS, Lua, Bash. Home Assistant, ESPHome, Zigbee2MQTT, Mosquitto, Frigate NVR. Proxmox, Docker, LXC, Tailscale. MQTT, Zigbee, Matter, LoRa/Meshtastic.
 
-Il mio canale @alessandrosimonitto è dedicato a:
+## Featured repositories
 
-smart home e domotica per principianti e utenti avanzati
+-- BTD --
+COMING SOON
 
-tutorial tecnici completi e chiari
+## YouTube channels
 
-confronti e test reali dei dispositivi
+**[@alessandrosimonitto](https://www.youtube.com/@alessandrosimonitto)** — home automation and smart home
 
-integrazioni avanzate con Home Assistant
+- home automation for both beginners and advanced users
+- in-depth technical tutorials
+- device comparisons and real-world tests
+- advanced Home Assistant integrations
+- LoRa/Meshtastic network design
+- practical automations for everyday use
 
-progettazione di reti LoRa/Meshtastic
+**[@pricemilsim](https://www.youtube.com/@pricemilsim)** — DCS World and military flight simulation
 
-automazioni intelligenti per la vita quotidiana
+- mission design and Lua scripting
+- tactical and historical scenarios
+- combat flight simulation content for an Italian-speaking audience
 
-📈 Oltre 5000 iscritti e circa 50.000 visualizzazioni mensili, con una community in continua crescita di appassionati e professionisti.
+## Approach
 
-🧪 Come lavoro
+Every piece of content comes from real tests, physical installations, and production configurations. I develop documented, reproducible solutions and publish YAML files, blueprints, and open configurations. Brand collaborations are accepted on the basis of honest, technically grounded analysis.
 
-Ogni contenuto nasce da test reali, installazioni fisiche e configurazioni quotidiane.
+## Contact
 
-Sviluppo soluzioni documentate e riproducibili, con file YAML, blueprint e configurazioni aperte.
-
-Collaboro con brand del settore per portare sul canale analisi oneste, tecniche e orientate all’uso reale.
-
-Mantengo uno stile semplice, diretto e accessibile anche agli utenti alle prime armi.
-
-📬 Contatti & Collaborazioni
-
-Sono sempre aperto a condividere progetti, idee e collaborazioni in ambito smart home, automation engineering e IoT.
+Open to discussing projects, ideas, and collaborations in smart home, automation engineering, IoT, and combat flight simulation.
